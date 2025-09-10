@@ -22,6 +22,7 @@ Senere i kurset skal vi lage en mer avansert versjon av denne nettsiden med **Je
 ## Tekniske krav
 - Bruk minst **to HTML-sider** (f.eks. `index.html`, `prosjekter.html`, osv.)
 - Bruk **CSS** til design og layout (helst med Flexbox eller Grid)
+- Lag et responsivt design som også fungerer på mobil
 - Lag en ryddig mappestruktur. Eks.: 
 ```
 /index.html
@@ -34,7 +35,6 @@ Senere i kurset skal vi lage en mer avansert versjon av denne nettsiden med **Je
 
 
 ## Ekstra utfordringer (valgfritt)
-- Lag et responsivt design som fungerer på mobil
 - Legg til en "mørk modus" med CSS-variabler
 - Bruk en CSS-animasjon eller overgangseffekt
 
